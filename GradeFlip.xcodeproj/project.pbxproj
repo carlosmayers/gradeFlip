@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		185B7D7D2296E6D000AEE39B /* assignmentCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185B7D7C2296E6D000AEE39B /* assignmentCollectionViewCell.swift */; };
 		18B78BAB22960D0700BB72B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B78BAA22960D0700BB72B3 /* AppDelegate.swift */; };
 		18B78BAD22960D0700BB72B3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B78BAC22960D0700BB72B3 /* ViewController.swift */; };
 		18B78BB022960D0700BB72B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B78BAE22960D0700BB72B3 /* Main.storyboard */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		185B7D7C2296E6D000AEE39B /* assignmentCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = assignmentCollectionViewCell.swift; path = ../assignmentCollectionViewCell.swift; sourceTree = "<group>"; };
 		18B78BA722960D0700BB72B3 /* GradeFlip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GradeFlip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18B78BAA22960D0700BB72B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18B78BAC22960D0700BB72B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 				18B78BAC22960D0700BB72B3 /* ViewController.swift */,
 				18B78BAE22960D0700BB72B3 /* Main.storyboard */,
 				18B78BC2229638DB00BB72B3 /* ScanViewController.swift */,
-				185B7D7C2296E6D000AEE39B /* assignmentCollectionViewCell.swift */,
 				18B78BBC2296328200BB72B3 /* GradeViewController.swift */,
 				18B78BB122960D0700BB72B3 /* Assets.xcassets */,
 				18B78BB322960D0700BB72B3 /* LaunchScreen.storyboard */,
@@ -146,7 +143,6 @@
 			files = (
 				18B78BAD22960D0700BB72B3 /* ViewController.swift in Sources */,
 				18B78BBD2296328200BB72B3 /* GradeViewController.swift in Sources */,
-				185B7D7D2296E6D000AEE39B /* assignmentCollectionViewCell.swift in Sources */,
 				18B78BAB22960D0700BB72B3 /* AppDelegate.swift in Sources */,
 				18B78BC3229638DB00BB72B3 /* ScanViewController.swift in Sources */,
 			);
